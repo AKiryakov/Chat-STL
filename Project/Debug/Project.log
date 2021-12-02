@@ -1,11 +1,8 @@
-﻿  funk_user.cpp
-  main.cpp
-C:\CPP\Chat\Project\main.cpp(56,31): warning C4018: <: несоответствие типов со знаком и без знака
-C:\CPP\Chat\Project\main.cpp(102,27): warning C4018: <: несоответствие типов со знаком и без знака
-C:\CPP\Chat\Project\main.cpp(130,35): warning C4018: <: несоответствие типов со знаком и без знака
-C:\CPP\Chat\Project\main.cpp(144,35): warning C4018: <: несоответствие типов со знаком и без знака
-C:\CPP\Chat\Project\main.cpp(153,39): warning C4018: <: несоответствие типов со знаком и без знака
-C:\CPP\Chat\Project\main.cpp(199,51): warning C4018: <: несоответствие типов со знаком и без знака
-  user.cpp
-  Создание кода...
-  Project.vcxproj -> C:\CPP\Chat\Project\Debug\Project.exe
+﻿  main.cpp
+C:\CPP\Modul 16\16.9\Chat-STL\Project\main.cpp(56,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\CPP\Modul 16\16.9\Chat-STL\Project\main.cpp(103,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\CPP\Modul 16\16.9\Chat-STL\Project\main.cpp(131,39): warning C4018: <: несоответствие типов со знаком и без знака
+C:\CPP\Modul 16\16.9\Chat-STL\Project\main.cpp(145,39): warning C4018: <: несоответствие типов со знаком и без знака
+C:\CPP\Modul 16\16.9\Chat-STL\Project\main.cpp(154,43): warning C4018: <: несоответствие типов со знаком и без знака
+C:\CPP\Modul 16\16.9\Chat-STL\Project\main.cpp(200,55): warning C4018: <: несоответствие типов со знаком и без знака
+  Project.vcxproj -> C:\CPP\Modul 16\16.9\Chat-STL\Project\Debug\Project.exe
